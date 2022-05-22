@@ -1,1 +1,1 @@
-printf team work by Chris and Raymond
+printf function teamwork by Christopher and Raymond
